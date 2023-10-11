@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anshuman-raghu
 - 👀 I’m interested in small projects 
-- 🌱 I’m currently learning C 
+- 🌱 I’m currently learning DSA 
 - 📫 Reach me at
 - https://www.linkedin.com/in/anshuman-raghu
 - https://www.instagram.com/anshuman.raghu/
